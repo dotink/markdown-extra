@@ -1,0 +1,31 @@
+{
+	"name": "dotink/markdown-extra",
+	"description": "Markdown Extra",
+	"keywords": ["markdown"],
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "John Gruber",
+			"role": "Creator"
+		},
+		{
+			"name": "Michel Fortin",
+			"email": "michel.fortin@michelf.com",
+			"role": "Developer"
+		},
+		{
+			"name": "Matthew J. Sahagian",
+			"email": "msahagian@dotink.net",
+			"role": "Maintainer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"dotink/markdown": "dev-master"
+	},
+	"autoload": {
+		"psr-0": {
+			"MarkdownExtra": "src"
+		}
+	}
+}
