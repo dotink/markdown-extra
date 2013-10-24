@@ -2,7 +2,7 @@
 	"name": "dotink/markdown-extra",
 	"description": "Markdown Extra",
 	"keywords": ["markdown"],
-	"license": "BSD",
+	"license": "BSD-2-Clause",
 	"authors": [
 		{
 			"name": "John Gruber",
